@@ -12,6 +12,18 @@ I am really **passionate** about iOS development and I find developing new iOS a
 4. Git for source control via terminal
 5. Use tab-bars as primary navigation
 
+
+## Implemented features-
+
+- [x] GET/POST Request (API Calls)
+- [x] OAuth 
+- [x] Table View/ Collection View (duh..)
+- [x] Pull to referesh & Infinite Scroll
+- [x] Autolayout
+- [x] Map View
+- [x] Camera
+
+
 ## Demo Apps-
 
 ![cutebunny-walkthrough](CuteBunnies.gif) ![flickm-walkthrough](FlickM.gif)![twitter-walkthrough](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
@@ -231,17 +243,6 @@ func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSInde
         cell.gifImageView.startAnimatingGIF()
     }
 ```
-
-## Implemented features-
-
-- [x] GET/POST Request (API Calls)
-- [x] OAuth 
-- [x] Table View/ Collection View (duh..)
-- [x] Pull to referesh & Infinite Scroll
-- [x] Autolayout
-- [x] Map View
-- [x] Camera
-
 
 ## Other resources-
 1.  [CodePath University](https://codepath.com/): "Without CodePath, I would still be *trying* to learn swift from a physical book"
