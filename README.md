@@ -2,12 +2,12 @@
 
 **"I live, *breathe* and *sleep* swift."** - Monte Thakkar
 
-"I believe that I am really **passionate** about iOS development and I find it challenging yet fun. I am looking for **opportunities** as a iOS Developer to work on **ideas** that are making (or plan to make) a **difference**"
+"I am really **passionate** about iOS development and I find developing new iOS apps challenging yet fun. I am looking for **opportunities** as a iOS Developer to work on **ideas** that are making (or plan to make) a **difference**"
 
 ## Tools and Resources (common across all apps)-
 
 1. Written in [Swift](https://github.com/apple/swift)
-2. Use [cocoapods](https://github.com/CocoaPods/CocoaPods)
+2. Use [Cocoapods](https://github.com/CocoaPods/CocoaPods)
 3. Auto Layout all the way (iPhone 5/5s 6/6s 6Plus/6sPlus)
 4. Git for source control via terminal
 5. Use tab-bars as primary navigation
