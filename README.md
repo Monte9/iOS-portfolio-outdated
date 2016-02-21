@@ -2,7 +2,7 @@
 
 **"I live, *breathe* and *sleep* swift."** - Monte Thakkar
 
-"I am really **passionate** about iOS development and I find developing new iOS apps challenging yet fun. I am looking for **opportunities** as a iOS Developer to work on **ideas** that are making (or plan to make) a **difference**"
+I am really **passionate** about iOS development and I find developing new iOS apps challenging yet fun. I am looking for **opportunities** as a iOS Developer to work on **ideas** that are making (or plan to make) a **difference**
 
 ## Tools and Resources (common across all apps)-
 
@@ -14,7 +14,9 @@
 
 ## Demo Apps-
 
-![walkthrough](Twitter-required.gif) ![walkthrough](Twitter-required.gif) ![walkthrough](Twitter-required.gif) ![walkthrough](Twitter-required.gif)
+![cutebunny-walkthrough](CuteBunny.gif) ![flickm-walkthrough](FlickM.gif) 
+
+![twitter-walkthrough](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
 
 ## Code Samples-
 
@@ -245,7 +247,7 @@ func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSInde
 
 ## Other resources-
 1.  [CodePath University](https://codepath.com/): "Without CodePath, I would still be *trying* to learn swift from a physical book"
-2.  [Slack](https://slack.com/): "Helping teams everywhere "Be less busy""
+2.  [Slack](https://slack.com/): "Helping teams everywhere 'Be less busy'"
 3.  [LiceCap](http://www.cockos.com/licecap/): "Gifs created with LiceCap"
 4.  [icons8](https://icons8.com/): "All the Icons You Need. Guaranteed."
 
