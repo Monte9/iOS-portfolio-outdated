@@ -2,7 +2,7 @@
 
 **"I live, *breathe* and *sleep* swift."** - Monte Thakkar
 
-"I believe that I am really *passionate* about iOS development and I find it challenging yet fun. I am looking for *opportunities* as a iOS Developer to work on *ideas* that are making (or plan to make) a *difference*"
+"I believe that I am really **passionate** about iOS development and I find it challenging yet fun. I am looking for **opportunities** as a iOS Developer to work on **ideas** that are making (or plan to make) a **difference**"
 
 ## Tools and Resources (common across all apps)-
 
@@ -18,7 +18,7 @@
 
 ## Code Samples-
 
-Tab Bar setup 
+**Tab Bar setup**
 ```swift
 func setupTabBars() {
     // Set up the Tweets View Controller
@@ -54,7 +54,8 @@ func setupTabBars() {
 }
 ```
 
-GET Request 
+
+**GET Request**
 ```swift
 func makeSearchCallWithCompletion(completion: (gifs: [Gif]?, error: NSError?) -> ()) {
     let url = NSURL(string:"http://api.giphy.com/v1/gifs/search?q=\(searchTerm)&api_key=\(publicBetaApiKey)")
@@ -90,7 +91,8 @@ func makeSearchCallWithCompletion(completion: (gifs: [Gif]?, error: NSError?) ->
 }
 ```
 
-OAuth (for twitter) 
+
+**OAuth** (for twitter)
 ```swift
 func openUrl(url: NSURL?) {
     
@@ -141,7 +143,8 @@ func loginWithCompletion(completion: (user: User?, error: NSError?) -> ()) {
 }
 ```
 
-Map View
+
+**Map View**
 ```swift
 //use location manager to get the current location
 locationManager = CLLocationManager()
@@ -202,7 +205,8 @@ func goToLocation(location: CLLocation) {
 }
 ```
 
-Search in table views/ collection views
+
+**Search** in table views/ collection views
 ```swift
 func searchBar(searchBar: UISearchBar, textDidChange searchText: String) {
         searchResults = searchText.isEmpty ? businesses : businesses!.filter({ (business: Business) -> Bool in
@@ -212,7 +216,8 @@ func searchBar(searchBar: UISearchBar, textDidChange searchText: String) {
     }
 ```
 
-Gif playback (using Gifu library)
+
+**Gif playback** (using Gifu library)
 ```swift
 func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         
@@ -247,4 +252,5 @@ func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSInde
 
 ## Contact
 Email me @ mthakkar@mail.sfsu.edu
+
 Follow me [@mthakkar_](https://twitter.com/MThakkar_)
