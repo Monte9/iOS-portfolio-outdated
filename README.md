@@ -26,7 +26,7 @@ I am really **passionate** about iOS development and I find developing new iOS a
 
 ## Demo Apps-
 
-![cutebunny-walkthrough](CuteBunnies.gif) ![flickm-walkthrough](FlickM.gif)![twitter-walkthrough](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
+![cutebunny-walkthrough](CuteBunnies.gif) ![flickm-walkthrough](FlickM.gif)![https://github.com/Monte9/TwitterApp-CodePathU](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
 
 ## Code Samples-
 
