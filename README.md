@@ -28,6 +28,8 @@ I am really **passionate** about iOS development and I find developing new iOS a
 
 ![cutebunny-walkthrough](CuteBunnies.gif) ![flickm-walkthrough](FlickM.gif)![twitter-walkthrough](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
 
+[<img src='Twitter.gif' title='Twitter App Video Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/TwitterApp-CodePathU)
+
 ## Code Samples-
 
 **Tab Bar setup**
