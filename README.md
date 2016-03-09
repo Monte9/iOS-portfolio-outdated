@@ -26,9 +26,11 @@ I am really **passionate** about iOS development and I find developing new iOS a
 
 ## Demo Apps-
 
-![cutebunny-walkthrough](CuteBunnies.gif) ![flickm-walkthrough](FlickM.gif)![https://github.com/Monte9/TwitterApp-CodePathU](Twitter.gif) ![yelpm-walkthrough](YelpM.gif)
 
-[<img src='Twitter.gif' title='Twitter App Video Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/TwitterApp-CodePathU)
+[<img src='CuteBunnies.gif' title='Cute Bunny App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/CuteBunnyApp) [<img src='FlickM.gif' title='FlickM App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/MoviesDBApp-CodePathU)
+
+[<img src='Twitter.gif' title='Twitter App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/TwitterApp-CodePathU) [<img src='YelpM.gif' title='YelpM App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/YelpApp-CodePathU)
+
 
 ## Code Samples-
 
