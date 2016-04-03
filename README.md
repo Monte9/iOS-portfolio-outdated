@@ -1,4 +1,4 @@
-# Portfolio
+# <a href="https://monte9.github.io">Portfolio-</a> 
 
 **"I live, *breathe* and *sleep* swift."** - Monte Thakkar
 
@@ -39,7 +39,7 @@ Likes app is an iOS app that provides a uniform and simple UI for interacting wi
 
 An iOS app written in Swift 2.1 that displays gifs of cute bunnies + trending gifs using the Giphy APIs. This was inspired by <a href="http://www.randomgoat.com/">http://www.randomgoat.com/</a>
 
-<a href="https://github.com/Monte9/CuteBunnyApp"><img  height="600" width="320" src='CuteBunny.gif' alt="Cute Bunny iOS App" /></a>
+<a href="https://github.com/Monte9/CuteBunnyApp"><img  height="600" width="320" src='CuteBunnies.gif' alt="Cute Bunny iOS App" /></a>
 <br /><br />
 
 - <a href="https://github.com/Monte9/MoviesDBApp-CodePathU"> FlickM App: </a>
@@ -297,3 +297,6 @@ func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSInde
 Email me @ mthakkar@mail.sfsu.edu
 
 Follow me [@mthakkar_](https://twitter.com/MThakkar_)
+
+
+#### <a href="https://monte9.github.io">Visit Portfolio website here</a>
