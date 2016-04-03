@@ -26,11 +26,49 @@ I am really **passionate** about iOS development and I find developing new iOS a
 
 ## Demo Apps-
 
+- <a href="https://github.com/Monte9/LikesApp"> Likes App: </a> 
 
-[<img src='CuteBunnies.gif' title='Cute Bunny App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/CuteBunnyApp) [<img src='FlickM.gif' title='FlickM App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/MoviesDBApp-CodePathU)
+Likes app is an iOS app that provides a uniform and simple UI for interacting with several websites and services. 
 
-[<img src='Twitter.gif' title='Twitter App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/TwitterApp-CodePathU) [<img src='YelpM.gif' title='YelpM App Walkthrough' width='' alt='Video Walkthrough' />](https://github.com/Monte9/YelpApp-CodePathU)
+(The gif below shows integration with Yelp API and saves your favorite resturants.)
 
+<a href="https://github.com/Monte9/LikesApp"><img  height="600" width="320" src='Likes.gif' alt="Likes iOS App" /></a>
+<br /><br />
+
+- <a href="https://github.com/Monte9/CuteBunnyApp"> Cute Bunny App: </a> 
+
+An iOS app written in Swift 2.1 that displays gifs of cute bunnies + trending gifs using the Giphy APIs. This was inspired by <a href="http://www.randomgoat.com/">http://www.randomgoat.com/</a>
+
+<a href="https://github.com/Monte9/CuteBunnyApp"><img  height="600" width="320" src='CuteBunny.gif' alt="Cute Bunny iOS App" /></a>
+<br /><br />
+
+- <a href="https://github.com/Monte9/MoviesDBApp-CodePathU"> FlickM App: </a>
+
+FlickM is a movies app displaying Top Rated, Popular, Now Playing, Upcoming and Movie Genres using The Movie Database API.
+
+<a href="https://github.com/Monte9/MoviesDBApp-CodePathU"><img  height="600" width="320" src='FlickM.gif' alt="FlickM iOS App" ></a>
+<br /><br />
+
+- <a href="https://github.com/Monte9/YelpApp-CodePathU"> Yelp App: </a>
+
+YelpM is a Yelp search app using the Yelp API.
+
+<a href="https://github.com/Monte9/YelpApp-CodePathU"><img  height="600" width="320" src='YelpM.gif' alt="Yelp iOS App" ></a>
+<br /><br />
+
+- <a href="https://github.com/Monte9/TwitterApp-CodePathU"> Twitter App: </a>
+
+TwitterM is a basic twitter app to read and compose tweets the Twitter API.
+
+<a href="https://github.com/Monte9/TwitterApp-CodePathU"><img  height="600" width="320" src='Twitter.gif' alt="Twitter iOS App" ></a>
+<br /><br />
+
+- <a href="https://github.com/Monte9/TinderApp-CodePathU"> Tinder App: </a>
+
+Tinder is an iOS app that is a clone of the Tinder app.
+
+<a href="https://github.com/Monte9/TinderApp-CodePathU"><img  height="600" width="320" src='Tinder.gif' alt="Tinder iOS App" ></a>
+<br /><br />
 
 ## Code Samples-
 
